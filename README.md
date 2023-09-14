@@ -10,15 +10,16 @@ Solutions for the [rustlings exercises](https://github.com/rust-lang/rustlings) 
 
 All solutions are in the /exercies folder.
 
-| Exercies                 | Progress | 
-| :----------------------: | :------: | 
-| `intro`                  | ✅ | 
-| `variables`              | ✅ | 
-| `functions`              | ✅ | 
-| `ifs`                    | ✅ | 
-| `quiz1`                  | ✅ | 
-| `primitive_types`        | ✅ | 
-| `vecs`                   | ✅ | 
+| Exercies                | Progress | 
+| :---------------------: | :------: | 
+| `intro`                 | ✅ | 
+| `variables`             | ✅ | 
+| `functions`             | ✅ | 
+| `ifs`                   | ✅ | 
+| `quiz1`                 | ✅ | 
+| `primitive_types`       | ✅ | 
+| `vecs`                  | ✅ | 
 | `move_semantics`        | ✅ | 
-| `structs`        |  | 
+| `structs`               | ✅ |
+| `enums`                 |  | 
 
