@@ -10,16 +10,29 @@ Solutions for the [rustlings exercises](https://github.com/rust-lang/rustlings) 
 
 All solutions are in the /exercies folder.
 
-| Exercies                | Progress | 
-| :---------------------: | :------: | 
-| `intro`                 | ✅ | 
-| `variables`             | ✅ | 
-| `functions`             | ✅ | 
-| `ifs`                   | ✅ | 
-| `quiz1`                 | ✅ | 
-| `primitive_types`       | ✅ | 
-| `vecs`                  | ✅ | 
-| `move_semantics`        | ✅ | 
-| `structs`               | ✅ |
-| `enums`                 |  | 
-
+| Exercise               | Progress    |
+| ---------------------- | ----------- |
+| variables              | ✅          |
+| functions              | ✅          |
+| ifs                    | ✅          |
+| Quiz 1                 | ✅          |
+| primitive_types        | ✅          |
+| vecs                   | ✅          |
+| move_semantics         | ✅          |
+| structs                | ✅          |
+| enums                  |           |
+| strings                |           |
+| modules                |           |
+| hashmaps               |           |
+| options                |           |
+| error_handling         |           |
+| generics               |           |
+| traits                 |           |
+| tests                  |           |
+| lifetimes              |           |
+| iterators              |           |
+| threads                |           |
+| smart_pointers         |           |
+| macros                 |           |
+| clippy                 |           |
+| conversions            |           |
