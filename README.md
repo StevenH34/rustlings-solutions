@@ -20,7 +20,7 @@ All solutions are in the /exercies folder.
 | vecs                   | ✅          |
 | move_semantics         | ✅          |
 | structs                | ✅          |
-| enums                  |           |
+| enums                  | ✅          |
 | strings                |           |
 | modules                |           |
 | hashmaps               |           |
