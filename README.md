@@ -19,4 +19,6 @@ All solutions are in the /exercies folder.
 | `quiz1`                  | ✅ | 
 | `primitive_types`        | ✅ | 
 | `vecs`                   | ✅ | 
+| `move_semantics`        | ✅ | 
+| `structs`        |  | 
 
