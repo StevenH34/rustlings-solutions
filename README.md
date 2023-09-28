@@ -21,7 +21,7 @@ All solutions are in the /exercies folder.
 | move_semantics         | ✅          |
 | structs                | ✅          |
 | enums                  | ✅          |
-| strings                |           |
+| strings                | ✅          |
 | modules                |           |
 | hashmaps               |           |
 | options                |           |
