@@ -22,7 +22,7 @@ All solutions are in the /exercies folder.
 | structs                | ✅          |
 | enums                  | ✅          |
 | strings                | ✅          |
-| modules                |           |
+| modules                | ✅          |
 | hashmaps               |           |
 | options                |           |
 | error_handling         |           |
